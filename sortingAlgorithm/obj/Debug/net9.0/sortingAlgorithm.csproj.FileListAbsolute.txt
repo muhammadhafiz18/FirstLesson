@@ -1,0 +1,15 @@
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\bin\Debug\net9.0\sortingAlgorithm.exe
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\bin\Debug\net9.0\sortingAlgorithm.deps.json
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\bin\Debug\net9.0\sortingAlgorithm.runtimeconfig.json
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\bin\Debug\net9.0\sortingAlgorithm.dll
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\bin\Debug\net9.0\sortingAlgorithm.pdb
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.AssemblyInfo.cs
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.sourcelink.json
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.dll
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\refint\sortingAlgorithm.dll
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.pdb
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\sortingAlgorithm.genruntimeconfig.cache
+C:\Users\USER\temp\FirstLesson\sortingAlgorithm\obj\Debug\net9.0\ref\sortingAlgorithm.dll
